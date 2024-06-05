@@ -8,3 +8,10 @@ Datasets used -
 
 2. Kaggle Dataset of Movie fights to detect fights -
    Link : https://www.kaggle.com/datasets/naveenk903/movies-fight-detection-dataset
+
+Testing Video-
+   Random Video downloaded for Testing
+
+
+
+Accuracy of Model - 84%
